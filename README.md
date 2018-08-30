@@ -36,5 +36,5 @@ python classify.py --model flowers.model --labelbin lb.pickle --image examples/r
 I have got 100% accuracy when i test my model.
 
 
-
+![alt text](https://photos.app.goo.gl/AvVpeiXtoEME8qRLA)
 
